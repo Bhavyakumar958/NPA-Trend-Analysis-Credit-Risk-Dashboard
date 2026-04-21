@@ -1,2 +1,2 @@
 # NPA-Trend-Analysis-Credit-Risk-Dashboard
-Analysed 80K+ loan records using RBI NPA classification rules; applied regression to forecast credit deterioration 90 days ahead — enabling proactive portfolio risk management
+Analyzing 32,416 loan records to identify NPA trends and credit risk patterns using RBI classification framework | Python · SQL · Tableau
